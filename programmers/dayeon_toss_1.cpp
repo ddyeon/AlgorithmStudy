@@ -1,11 +1,11 @@
 
- fun main()
-    {
-        val date = "20210701"
-        val arr : Array<String> = arrayOf("���佺,20020601")
+//  fun main()
+//     {
+//         val date = "20210701"
+//         val arr : Array<String> = arrayOf("±èÅä½º,20020601")
         
-        solution(date, arr)
-    }
+//         solution(date, arr)
+//     }
     
      fun solution(date: String, requests: Array<String>): Int {
         var answer: Int = 0
@@ -19,7 +19,7 @@
         
         for(i in 0 until requests.size)
         {
-            var tmpArr = requests[i].split(",") //1��°�ε���
+            var tmpArr = requests[i].split(",") //1¹øÂ°ÀÎµ¦½º
             var year :Int = Integer.parseInt(tmpArr[1].substring(0,4))
             var birth  = Integer.parseInt(tmpArr[1].substring(5))
             println(tmpArr[1])
