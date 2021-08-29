@@ -14,8 +14,8 @@
         val start_year = Integer.parseInt(date.substring(0,4))
         val start_birth = Integer.parseInt(date.substring(5))
         
-        println(start_year)
-        println(start_birth)
+        //println(start_year)
+        //println(start_birth)
         
         for(i in 0 until requests.size)
         {
