@@ -93,4 +93,4 @@ LRU알고리즘이란?
 LRU알고리즘을 공부하고 문제를 접근하니 쉽게 접근할 수 있었다.
 Deque랑 좀 더 친해지기~!
 
-[캐시](https://velog.io/@ddyy094/LRULeast-Recently-Used-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EB%9E%80#%EC%BD%94%EB%93%9C, "programmers")
+[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680, "programmers")
